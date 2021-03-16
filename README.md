@@ -8,10 +8,10 @@
     <div align="center" style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;">
         <h2 style="color:#DDD">My Profile Stats:</h2>
           <p style="background:#333; border-radius:10px; padding:30px;" align="center">&nbsp;<img
-                src="https://github-readme-stats.vercel.app/api?username=dominik48n&count_private=true&theme=chartreuse-dark"
+                src="https://github-readme-stats.vercel.app/api?username=Dominik48N&count_private=true&theme=chartreuse-dark"
                 alt="github stats"></p>
         <p style="background:#333; border-radius:10px; padding:30px;" align="center">&nbsp;<img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominik48n&layout=compact&theme=chartreuse-dark"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominik48N&layout=compact&theme=chartreuse-dark"
                 alt="github stats"></p>
     </div>
 <hr>
