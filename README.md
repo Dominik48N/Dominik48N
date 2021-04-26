@@ -6,6 +6,12 @@
 <p>TeamSpeak: <a href="https://invite.teamspeak.com/dominik48n.de/">dominik48n.de</a></p>
 <p>E-Mail: <a href="mailto:admin@dominik48n.de">admin@dominik48n.de</a></p>
 <hr>
+<h3 align="center">Skills</h1>
+<p><strong>Languages:</strong> Java, Kotlin, HTML, CSS (SCSS / SASS), JavaScript (TypeScript), Python</p>
+<p><strong>Databases:</strong> MongoDB, MySQL (MariaDB)</p>
+<p><strong>JS Frameworks:</strong> Node, Angular CLI, React</p>
+<p><strong>Technologies:</strong> Docker</p>
+<hr>
     <div align="center" style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;">
         <h2 style="color:#DDD">My Profile Stats:</h2>
           <p style="background:#333; border-radius:10px; padding:30px;" align="center">&nbsp;<img
