@@ -6,7 +6,7 @@
 <p>TeamSpeak: <a href="https://invite.teamspeak.com/dominik48n.de/">dominik48n.de</a></p>
 <p>E-Mail: <a href="mailto:admin@dominik48n.de">admin@dominik48n.de</a></p>
 <hr>
-<h3 align="center">Skills</h1>
+<h2 style="color:#DDD">Skills:</h2>
 <p><strong>Languages:</strong> Java, Kotlin, HTML, CSS (SCSS / SASS), JavaScript (TypeScript), Python</p>
 <p><strong>Databases:</strong> MongoDB, MySQL (MariaDB)</p>
 <p><strong>JS Frameworks:</strong> Node, Angular CLI, React</p>
