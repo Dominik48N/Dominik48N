@@ -8,7 +8,7 @@
 <hr>
 <h2 align="center" style="color:#DDD">Skills:</h2>
 <p><strong>Languages:</strong> Java, Kotlin, HTML, CSS (SCSS / SASS), JavaScript (TypeScript), Python</p>
-<p><strong>Databases:</strong> MongoDB, MySQL (MariaDB)</p>
+<p><strong>Databases:</strong> MongoDB, MySQL (MariaDB), Redis</p>
 <p><strong>JS Frameworks:</strong> Node, Angular CLI, React</p>
 <p><strong>Technologies:</strong> Docker</p>
 <hr>
