@@ -3,7 +3,6 @@
 <p>Website: <a href="https://dominik48n.de">click here</a></p>
 <p>Twitter: <a href="https://twitter.com/dominik48n">click here</a></p>
 <p>Discord: <a href="https://discord.com/users/569616911546056714">Domi<3#0969</a></p>
-<p>TeamSpeak: <a href="https://invite.teamspeak.com/dominik48n.de/">dominik48n.de</a></p>
 <p>E-Mail: <a href="mailto:admin@dominik48n.de">admin@dominik48n.de</a></p>
 <hr>
 <h2 align="center" style="color:#DDD">Skills:</h2>
