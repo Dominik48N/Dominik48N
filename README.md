@@ -6,7 +6,7 @@
 <p>E-Mail: <a href="mailto:admin@dominik48n.de">admin@dominik48n.de</a></p>
 <hr>
 <h2 align="center" style="color:#DDD">Skills:</h2>
-<p><strong>Languages:</strong> Java, Kotlin, HTML, CSS (SCSS / SASS), JavaScript (TypeScript), Python</p>
+<p><strong>Languages:</strong> Java, Kotlin, HTML, CSS (SCSS / SASS), JavaScript (TypeScript), Python, Go</p>
 <p><strong>Databases:</strong> MongoDB, MySQL (MariaDB), Redis</p>
 <p><strong>JS Frameworks:</strong> Node, Angular CLI, React</p>
 <p><strong>Technologies:</strong> Docker</p>
