@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">Programming and Scripting Languages</h3>
-<p align="center">Java, Kotlin, Python, Dart, C, C++, GoLang, NodeJS</p>
+<h4 align="center">Java, Kotlin, Python, Dart, C, C++, GoLang, NodeJS</h4>
 <h3 align="center">Web Development</h3>
-<p align="center">JavaScript, React, Angular, HTML, CSS, Sass, PHP</p>
+<h4 align="center">JavaScript, React, Angular, HTML, CSS, Sass, PHP</h4>
 <h3 align="center">Database Technologies</h3>
-<p align="center">MongoDB, MySQL, PostgreSQL, Redis, InfluxDB</p>
+<h4 align="center">MongoDB, MySQL, PostgreSQL, Redis, InfluxDB</h4>
 <h3 align="center">Tools and Technologies</h3>
-<p align="center">Git, Kubernetes, Docker, Jetbrains Tools, Arduino</p> 
+<h4 align="center">Git, Kubernetes, Docker, Jetbrains Tools, Arduino</h4> 
 <hr>
     <div align="center" style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;">
         <h2 align="center" style="color:#DDD">My Profile Stats:</h2>
