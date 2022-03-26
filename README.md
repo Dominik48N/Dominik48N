@@ -1,15 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
-<h2 align="center" style="color:#DDD">Socialmedia:</h2>
-<p>Website: <a href="https://dominik48n.de">click here</a></p>
-<p>Twitter: <a href="https://twitter.com/dominik48n">click here</a></p>
-<p>Discord: <a href="https://discord.com/users/569616911546056714">Domi<3#0969</a></p>
-<p>E-Mail: <a href="mailto:admin@dominik48n.de">admin@dominik48n.de</a></p>
-<hr>
-<h2 align="center" style="color:#DDD">Skills:</h2>
-<p><strong>Languages:</strong> Java, Kotlin, Python, JavaScript (TypeScript), HTML, CSS (SCSS / SASS), Dart, C, C++, GoLang</p>
-<p><strong>Databases:</strong> MongoDB, MySQL (MariaDB), Redis</p>
-<p><strong>JS Frameworks:</strong> Node, React, Angular CLI</p>
-<p><strong>Technologies:</strong> Docker</p>
+<h3 align="center">Programming and Scripting Languages</h3>
+<p align="center">Java, Kotlin, Python, Dart, C, C++, GoLang, NodeJS</p>
+<h3 align="center">Web Development</h3>
+<p align="center">JavaScript, React, Angular, HTML, CSS, Sass, PHP</p>
+<h3 align="center">Database Technologies</h3>
+<p align="center">MongoDB, MySQL, PostgreSQL, Redis, InfluxDB</p>
+<h3 align="center">Tools and Technologies</h3>
+<p align="center">Git, Kubernetes, Docker, Jetbrains Tools, Arduino</p> 
 <hr>
     <div align="center" style="background:#333; border-radius:10px; padding:30px;  margin-top:30px;">
         <h2 align="center" style="color:#DDD">My Profile Stats:</h2>
